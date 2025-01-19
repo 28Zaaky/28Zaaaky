@@ -45,7 +45,7 @@ Programmeur Junior, j'utilise différents langages comme Python, Ruby, C, PHP, J
 
 ## 📫 Contact
 - **Email** : [zak281105@gmail.com](mailto:zak281105@gmail.com)  
-- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/zakarya-aziz)  
+- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/ilyes-a-8ba7b2267/)  
 - **Site Web** : [Trend & Ly](https://trendandly.com)  
 
 ---
