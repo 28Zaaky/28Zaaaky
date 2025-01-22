@@ -14,7 +14,7 @@ Programmeur Junior, j'utilise différents langages comme Python, Ruby, C, PHP, J
 
 ## 🚀 Projets en vedette
 
-### **Cybersécurité**
+### **DevSec**
 1. **Application de chat sécurisé** : Websocket sécurisée en Python avec Flask (avec interface de chat).  
 2. **Sockets TCP sécurisés** : Développement en C avec chiffrement ssl pour un transfert de données sécurisé.  
 3. **Trojan & Virus polymorphe** : Trojan en C (serveur) et Python (client) et virus polymorphe en C++, Bash et Assembleur.  
@@ -34,7 +34,7 @@ Programmeur Junior, j'utilise différents langages comme Python, Ruby, C, PHP, J
 11. **Prédiction des salaires avec régression linéaire** : Application de régression linéaire pour prédire les salaires.  
 12. **Prédiction des prix des maisons avec régression linéaire** : Utilisation de la régression linéaire pour prédire les prix des maisons.  
 13. **Application de crédit bancaire** : Prédiction de décisions de crédit avec Python (sklearn).
-14. **Classification Titanic avec régression logistique binaire** : Analyse exploratoire des données (EDA) et classification des passagers du Titanic en fonction de leurs chances de survie avec un algorithme de régression logistique binaire.  
+14. **Classification Titanic avec régression logistique** : Analyse exploratoire des données (EDA) et classification des passagers du Titanic en fonction de leurs chances de survie avec un algorithme de régression logistique binaire.  
 
 ### **Simulation Quantique**
 15. **Simulation de circuit quantique avec Qiskit (Python)** : Développement d'une simulation de circuit quantique à l'aide de la bibliothèque Qiskit en Python.  
