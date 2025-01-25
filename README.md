@@ -1,14 +1,10 @@
 # 👋 Bienvenue sur mon GitHub !
 
-🎓 **Étudiant en informatique | Co-fondateur de [Trend & Ly](https://trendandly.com)**  
-
 ---
 
 ## Moi
 
 Passionné d'informatique💻, spécialisé en cybersécurité (CTF réaliste & reverse engineering) et en machine learning, je suis co-fondateur de Trend & Ly, une agence de marketing spécialisée dans le SEO et la création de sites web performants.
-
-Programmeur Junior, j'utilise différents langages comme Python, Ruby, C, PHP, JS, avec une affinité pour la programmation orientée objet et le langage Assembleur. Étudiant, entrepreneur et autodidacte, je suis toujours en quête de nouveaux défis et d'apprentissages.
 
 ---
 
@@ -41,13 +37,6 @@ Programmeur Junior, j'utilise différents langages comme Python, Ruby, C, PHP, J
 16. **Mesure de Qubits** : Exploration de la mesure des qubits dans différents états quantiques avec Qiskit.  
 17. **Utilisation d'ordinateurs quantiques réels avec Qiskit** : Exécution de programmes sur des ordinateurs quantiques physiques via IBM Q avec Qiskit.
     
----
-
-## 📫 Contact
-- **Email** : [zak281105@gmail.com](mailto:zak281105@gmail.com)  
-- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/ilyes-a-8ba7b2267/)  
-- **Site Web** : [Trend & Ly](https://trendandly.com)  
-
 ---
 
 **Merci de visiter mon GitHub !** Explorez mes projets et n'hésitez pas à me contacter pour échanger ou collaborer. 🚀
